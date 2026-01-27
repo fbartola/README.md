@@ -10,7 +10,10 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat&logo=googlecolab&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat=pandas&logoColor=white)
 
+
 I'm a student at the University of Notre Dame studying Finance, Chinese, & Data Science.
+
+My Data Science Portfolio: https://github.com/fbartola/Bartolacci-Data-Science-Portfolio
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
