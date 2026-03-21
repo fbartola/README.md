@@ -35,6 +35,23 @@ My Data Science Portfolio: https://github.com/fbartola/Bartolacci-Data-Science-P
 - Pitch Deck Presentation Skills
 - Communication and Financial Data Reporting Skills
 
+# Projects
+
+## Tidy Data Project: https://github.com/fbartola/TidyData-Project
+
+What is the Tidy Data Project? 
+
+This project focuses on transforming a messy dataset into a tidy format using pandas. By applying tidy data principles, I reorganized the data so each variable has its own column and each observation has its own row, making it easier to analyze and visualize. This project complements my portfolio by showcasing my ability to transform messy, real-world datasets into a clean, structured format ready for analysis. In finance and data-driven roles, the ability to efficiently clean and organize data is critical, and this project highlights my proficiency with pandas and foundational data manipulation techniques.
+
+## Basic Streamlit App – Penguin Data Filtering: https://github.com/fbartola/Bartolacci-Data-Science-Portfolio/tree/main/basic_streamlit_app
+
+What is the Penguin Data Filtering Project? 
+
+This project is a basic Streamlit app created for the Introduction to Data Science course for Portfolio Update #1. The app demonstrates loading a CSV file dataset and using Streamlit to build a data interface for exploring and filtering the data. The dataset contains species, islands, and bill length & depth, among other metrics.
+
+
+
+
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/francesca-bartolacci-477849295
