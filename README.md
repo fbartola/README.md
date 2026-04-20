@@ -47,7 +47,7 @@ My Data Science Portfolio: https://github.com/fbartola/Bartolacci-Data-Science-P
 📄 **Project README:**  
 [View detailed app description and run instructions](basic_streamlit_app/README.md)
 
-##Tidy Data Project
+### Tidy Data Project
 
 📂 **Project Folder:**  
 [`tidy_data_project/`](tidy_data_project)
@@ -55,7 +55,7 @@ My Data Science Portfolio: https://github.com/fbartola/Bartolacci-Data-Science-P
 📄 **Project README:**  
 [View detailed app description and run instructions](tidy_data_project/README.md)
 
-##ML Streamlit App
+### ML Streamlit App
 
 📂 **Project Folder:**  
 [`MLStreamlitApp/`](MLStreamlitApp)
