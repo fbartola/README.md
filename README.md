@@ -39,7 +39,7 @@ My Data Science Portfolio: https://github.com/fbartola/Bartolacci-Data-Science-P
 
 ## Current Projects
 
-##Basic Streamlit App 
+### Basic Streamlit App 
 
 📂 **Project Folder:**  
 [`basic_streamlit_app/`](basic_streamlit_app)
