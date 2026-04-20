@@ -37,17 +37,32 @@ My Data Science Portfolio: https://github.com/fbartola/Bartolacci-Data-Science-P
 
 # Projects
 
-## Tidy Data Project: https://github.com/fbartola/TidyData-Project
+## Current Projects
 
-What is the Tidy Data Project? 
+- Basic Streamlit App 
 
-This project focuses on transforming a messy dataset into a tidy format using pandas. By applying tidy data principles, I reorganized the data so each variable has its own column and each observation has its own row, making it easier to analyze and visualize. This project complements my portfolio by showcasing my ability to transform messy, real-world datasets into a clean, structured format ready for analysis. In finance and data-driven roles, the ability to efficiently clean and organize data is critical, and this project highlights my proficiency with pandas and foundational data manipulation techniques.
+📂 **Project Folder:**  
+[`basic_streamlit_app/`](basic_streamlit_app)
 
-## Basic Streamlit App – Penguin Data Filtering: https://github.com/fbartola/Bartolacci-Data-Science-Portfolio/tree/main/basic_streamlit_app
+📄 **Project README:**  
+[View detailed app description and run instructions](basic_streamlit_app/README.md)
 
-What is the Penguin Data Filtering Project? 
+- Tidy Data Project
 
-This project is a basic Streamlit app created for the Introduction to Data Science course for Portfolio Update #1. The app demonstrates loading a CSV file dataset and using Streamlit to build a data interface for exploring and filtering the data. The dataset contains species, islands, and bill length & depth, among other metrics.
+📂 **Project Folder:**  
+[`tidy_data_project/`](tidy_data_project)
+
+📄 **Project README:**  
+[View detailed app description and run instructions](tidy_data_project/README.md)
+
+
+- ML Streamlit App
+
+📂 **Project Folder:**  
+[`MLStreamlitApp/`](MLStreamlitApp)
+
+📄 **Project README:**  
+[View detailed app description and run instructions](MLStreamlitApp/README.md)
 
 
 
